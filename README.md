@@ -7,3 +7,6 @@
 2.Implemented Linear Regression algorithm to find the line of best fit for a given sample of points.
 
 3.Trained a model to classify handwritten digits whose images are 8 X 8 pixels.
+
+4.Trained a model to classify handwritten digits whose images are 28 X 28 pixels.
+
