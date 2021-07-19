@@ -10,3 +10,4 @@
 
 4.Trained a model to classify handwritten digits whose images are 28 X 28 pixels.
 
+5.Implemented GAN on MNIST handwritten digits dataset.
