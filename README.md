@@ -5,6 +5,9 @@ A clean, simple and readable implementation of Pix2Pix in PyTorch. I've tried to
 ## Results
 The model was trained on the Maps dataset.
 
+|1st row: Input / 2nd row: Generated / 3rd row: Target|
+|:---:|
+|![](results/results_maps.png)|
 
 ### Maps dataset
 The dataset can be downloaded from Kaggle: [link](https://www.kaggle.com/vikramtiwari/pix2pix-dataset).
