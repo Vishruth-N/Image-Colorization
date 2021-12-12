@@ -1,4 +1,4 @@
-# Image-Colorization
+# Map Generation using Deep Learning
 1.I have learnt:
   1. Python programming language from the book "Automate the boring stuff with python"
   2. Machine Learning course from Stanford university through Coursera(by Andrew NG)
